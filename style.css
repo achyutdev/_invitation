@@ -1,3 +1,9 @@
 .wrapper{
     margin: 100px auto;
 }
+body{
+  background: #8a7f84
+}
+.slide{
+  box-shadow: 15px 15px 5px #1a1919;
+}
